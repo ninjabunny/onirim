@@ -1,3 +1,5 @@
+// onirim game
+
 var typeName = ["red", "blue", "green", "yellow"];
 var deck = [];
 var playedCards = [];
